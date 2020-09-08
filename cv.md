@@ -6,9 +6,9 @@
 
 ### Contacts
 
-1. Telegram - _@Nilubisan_
-2. VK - vk.com/make_it_simply
-3. Whatsapp - _+77772676795_
+1. **Telegram** - _@Nilubisan_
+2. **VK** - vk.com/make_it_simply
+3. **Whatsapp** - _+77772676795_
 
 ---
 
