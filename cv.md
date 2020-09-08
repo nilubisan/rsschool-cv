@@ -36,10 +36,10 @@ Here's a solution of the task from CodeWars. Function below identifies valid IPv
 
 ```javascript
 function isValidIP(str) {
-  let res = str.match(/^(\d{1,3})\.(\d{1,3})\.(\d{1,3})\.(\d{1,3})$/);
+  let result = str.match(/^(\d{1,3})\.(\d{1,3})\.(\d{1,3})\.(\d{1,3})$/);
   if (!Boolean(result)) return false;
   else {
-    res = res.slice(1);
+    result = result.slice(1);
     for (let item of result) {
       if (
         result.length !== 4 ||
